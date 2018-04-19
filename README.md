@@ -4,14 +4,6 @@ Categorizing my starred repositories, to easily find and get a big-picture of th
 
 ---
 
-**Content**
-
-- Assembler
-- Documents
-- Dissasembly
-
----
-
 # Articles
 
 - [500lines](https://github.com/aosabook/500lines) "500 Lines or Less" focuses on the design decisions and tradeoffs that experienced programmers make when they are writing code [...] {`JavaScript`}
@@ -68,6 +60,14 @@ Collection of game development related white papers
 A veritable mish-mash of technically-oriented PDFs [...]
 - [p1xt-guides](https://github.com/P1xt/p1xt-guides)
 Resources for learners who want to dive deeper on their journey to becoming web developers / software engineers. [...]
+
+---
+
+# Editors
+
+### Markdown
+
+- [MarkText](https://github.com/marktext/marktext) Next generation markdown editor, running on platforms of MacOS Windows and Linux.
 
 ---
 
@@ -200,14 +200,6 @@ Game engines reimplemented and code translations for (old, commercial/popular) g
 - [PyGame-Learning-Environment](https://github.com/ntasfi/PyGame-Learning-Environment) PyGame Learning Environment (PLE) -- Reinforcement Learning Environment in `Python`.
 
 - [Write Yourself A Roguelike: `Ruby` Edition](https://github.com/thoughtbot/write-yourself-a-roguelike)
-
----
-
-# Editors
-
-### Markdown
-
-- [MarkText](https://github.com/marktext/marktext) Next generation markdown editor, running on platforms of MacOS Windows and Linux.
 
 ---
 
@@ -373,6 +365,8 @@ Game engines reimplemented and code translations for (old, commercial/popular) g
 
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) Freely available programming books
 
+- [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) Design Patterns for Humans™ - An ultra-simplified explanation
+
 ### Applications
 
 - [emojitracker](https://github.com/mroth/emojitracker) [Emojitracker.com](http://emojitracker.com/) tracks realtime emoji usage on Twitter.
@@ -415,22 +409,6 @@ Game engines reimplemented and code translations for (old, commercial/popular) g
 
 - [gel](https://github.com/glouw/gel) The N64-like software renderer {`C`}
 
-## Design Paterns
-
-- [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) Design Patterns for Humans™ - An ultra-simplified explanation
-
----
-
-# Roadmaps
-
-- [computer-science](https://github.com/ossu/computer-science) Path to a free self-taught education in **Computer Science**!
-
-- [game-programmer](https://github.com/miloyip/game-programmer) A Study Path for **Game Programmer**
-
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a **web developer** in 2018
-
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a **software engineer**.
-
 ---
 
 # Reverse Engineering
@@ -450,6 +428,18 @@ Game engines reimplemented and code translations for (old, commercial/popular) g
 - [metasm](https://github.com/jjyg/metasm) This is the main repository for metasm, a free assembler / disassembler / compiler written in `Ruby` [metasm.cr0.org](http://metasm.cr0.org/)
 
 - [uvudec](https://github.com/JohnDMcMaster/uvudec) Universal decompiler [uvudecnew.blogspot.com](http://uvudecnew.blogspot.com/)
+
+---
+
+# Roadmaps
+
+- [computer-science](https://github.com/ossu/computer-science) Path to a free self-taught education in **Computer Science**!
+
+- [game-programmer](https://github.com/miloyip/game-programmer) A Study Path for **Game Programmer**
+
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a **web developer** in 2018
+
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a **software engineer**.
 
 ---
 
