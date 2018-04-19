@@ -81,6 +81,8 @@ Resources for learners who want to dive deeper on their journey to becoming web 
 
 - [Genesis-Plus-GX](https://github.com/ekeeke/Genesis-Plus-GX) An enhanced port of Genesis Plus - accurate & portable Sega 8/16 bit emulator {`C`}
 
+- [gxemul](https://github.com/5HT/gxemul) GXemul MIPS/ARM/SH/PPC/M88K emulator [gxemul.sourceforge.net](http://gxemul.sourceforge.net)
+
 ### PlayStation
 
 - [psxact](https://github.com/psxact/psxact) This project aims to emulate the PlayStation™ 1 console in an accurate fashion. No hacks or shortcuts will be used to accomplish this goal. {`C++`}
@@ -179,6 +181,8 @@ Game engines reimplemented and code translations for (old, commercial/popular) g
 
 - [Zenject](https://github.com/modesttree/Zenject) Dependency Injection Framework for Unity3D
 
+- [Reaktion](https://github.com/keijiro/Reaktion) Audio reactive animation toolkit for Unity
+
 ##### Awesome Lists
 
 - [awesome-unity](https://github.com/RyanNielson/awesome-unity) A curated list of awesome Unity assets, resources, and more.
@@ -263,6 +267,8 @@ Game engines reimplemented and code translations for (old, commercial/popular) g
 
 - [goby](https://github.com/goby-lang/goby) Goby - A new language that helps you develop highly concurrent web applications [goby-lang.org](http://goby-lang.org/) {`Go`}
 
+- [Opal](https://github.com/opal/opal) Ruby in the Browser [opalrb.com](https://opalrb.com)
+
 #### Learning
 
 - [ruby.fundamental](https://github.com/khusnetdinov/ruby.fundamental) Fundamental programming with ruby examples and references. It covers threads, SOLID principles, design patterns, data structures, algorithms. Books for reading.
@@ -332,6 +338,8 @@ Game engines reimplemented and code translations for (old, commercial/popular) g
 #### Libraries
 
 - [twit](https://github.com/ttezel/twit) Twitter API Client for node (REST & Streaming API)
+
+- [sync](https://github.com/calzoneman/sync) Node.JS Server and JavaScript/HTML Client for synchronizing online media
 
 ### `Assembly`
 
@@ -439,6 +447,10 @@ Game engines reimplemented and code translations for (old, commercial/popular) g
 
 - [miasm](https://github.com/cea-sec/miasm) Reverse engineering framework in `Python`
 
+- [metasm](https://github.com/jjyg/metasm) This is the main repository for metasm, a free assembler / disassembler / compiler written in `Ruby` [metasm.cr0.org](http://metasm.cr0.org/)
+
+- [uvudec](https://github.com/JohnDMcMaster/uvudec) Universal decompiler [uvudecnew.blogspot.com](http://uvudecnew.blogspot.com/)
+
 ---
 
 # Serverless Computing and Applications
@@ -466,6 +478,8 @@ Game engines reimplemented and code translations for (old, commercial/popular) g
 - [material-design-lite](https://github.com/google/material-design-lite) Material Design Components in HTML/CSS/JS [getmdl.io](http://getmdl.io/)
 
 - [keymaster](https://github.com/madrobby/keymaster) A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.
+
+- [WebAssembly/design](https://github.com/WebAssembly/design) WebAssembly Design Documents [webassembly.github.io](http://webassembly.github.io/)
 
 ---
 
@@ -527,6 +541,22 @@ Game engines reimplemented and code translations for (old, commercial/popular) g
 
 - [neural-doodle](https://github.com/alexjc/neural-doodle) Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
 
+### Artificial Intelligence
+
+- [aifh](https://github.com/jeffheaton/aifh) Artificial Intelligence for Humans
+
 ### Color Palettes
 
 - [dawnbringer-palettes](https://github.com/geoffb/dawnbringer-palettes) Limited color palettes by DawnBringer in various formats.
+
+### Digital Circuits
+
+- [LogikSim](https://github.com/LogikSim/LogikSim) The world's best software to understand digital circuits.
+
+### Raspberry Pi
+
+- [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
+
+### File System
+
+- [pifs](https://github.com/philipl/pifs) πfs - the data-free filesystem!
